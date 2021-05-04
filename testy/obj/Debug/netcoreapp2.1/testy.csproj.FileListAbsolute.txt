@@ -1,0 +1,17 @@
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\testy.deps.json
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\testy.runtimeconfig.json
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\testy.runtimeconfig.dev.json
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\testy.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\testy.pdb
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\Cezar_cipher.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\bin\Debug\netcoreapp2.1\Cezar_cipher.pdb
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.csprojAssemblyReference.cache
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.csproj.CoreCompileInputs.cache
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.AssemblyInfoInputs.cache
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.AssemblyInfo.cs
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.csproj.CopyComplete
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.dll
+C:\Users\jedra\source\repos\Cezar_cipher\testy\obj\Debug\netcoreapp2.1\testy.pdb
